@@ -1,6 +1,6 @@
 # HRIS Dashboard + Chatbot ERIC
 
-Sistem Informasi Sumber Daya Manusia (HRIS) dengan dashboard interaktif dan chatbot AI bernama ERIC yang didukung oleh Google Gemini AI.
+Sistem Informasi Sumber Daya Manusia (HRIS) dengan dashboard interaktif dan chatbot AI bernama ERIC yang didukung oleh Google Gemini AI. (Namun data dari sistem HRIS nya masih dummy dan dalam pengembangan)
 
 ## Fitur
 
