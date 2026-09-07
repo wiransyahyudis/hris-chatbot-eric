@@ -19,3 +19,17 @@ Sistem Informasi Sumber Daya Manusia (HRIS) dengan dashboard interaktif dan chat
 - Google Gemini AI API
 - Tailwind CSS
 - Vanilla JavaScript
+
+- ## Screenshot
+
+### Dashboard HRIS
+![Dashboard HRIS](screenshot-dashboard.png)
+
+*Tampilan utama dashboard HRIS dengan statistik karyawan, grafik kehadiran, dan komposisi karyawan.*
+
+---
+
+### Chatbot ERIC
+![Chatbot ERIC](screenshot-chatbot.png)
+
+*Chatbot ERIC yang siap membantu Anda kapan saja dengan tampilan floating widget di pojok kanan bawah.*
