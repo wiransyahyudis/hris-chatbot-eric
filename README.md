@@ -20,7 +20,7 @@ Sistem Informasi Sumber Daya Manusia (HRIS) dengan dashboard interaktif dan chat
 - Tailwind CSS
 - Vanilla JavaScript
 
-- ## Screenshot
+## Screenshot
 
 ### Dashboard HRIS
 ![Dashboard HRIS](screenshot-dashboard.png)
@@ -33,3 +33,11 @@ Sistem Informasi Sumber Daya Manusia (HRIS) dengan dashboard interaktif dan chat
 ![Chatbot ERIC](screenshot-chatbot.png)
 
 *Chatbot ERIC yang siap membantu Anda kapan saja dengan tampilan floating widget di pojok kanan bawah.*
+
+## Instalasi
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/username/hris-chatbot-eric.git
+cd hris-chatbot-eric
